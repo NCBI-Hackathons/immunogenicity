@@ -1,2 +1,1 @@
-# immunogenicity
-Metagenomic and Tumor Cell Immunogenicity Team -- NCBI-assisted Boston Genomics Hackathon
+Call and Annotate GRCh38 RNA-seq variants from SRA in a single step
